@@ -16,24 +16,25 @@ Welcome to Redistash, a chat application built with modern technologies. This ap
   
 
 ## Tech Stack:
-  ⚛️ Next.js 14
-  💻 TypeScript
-  🎨 Tailwind CSS
-  🔐 UPSTASH Redis
+
+  ⚛️ Next.js 14 <br/>
+  💻 TypeScript <br/>
+  🎨 Tailwind CSS <br/>
+  🔐 UPSTASH Redis <br/>
 
 ## Features
-  💬 Real-Time Messaging
-  🔒 Authentication
-  📱 Responsive UI
-  🌗 Light and Dark Mode
-  🔔 Notification Sounds
-  ⌨️ Satisfying Typing Effects
-  📊 Learn About Redis Data Types
-  📷 Image Uploads
-  🛠️ Integration with Upstash Redis for Scalable Chat
-  💙 Awesome Landing Page
-  🌐 Deployment
-  🚀 And Many More Cool Features
+  💬 Real-Time Messaging <br/>
+  🔒 Authentication <br/>
+  📱 Responsive UI <br/>
+  🌗 Light and Dark Mode <br/>
+  🔔 Notification Sounds <br/>
+  ⌨️ Satisfying Typing Effects <br/>
+  📊 Learn About Redis Data Types <br/>
+  📷 Image Uploads <br/>
+  🛠️ Integration with Upstash Redis for Scalable Chat <br/>
+  💙 Awesome Landing Page <br/>
+  🌐 Deployment <br/>
+  🚀 And Many More Cool Features <br/>
 
 
 Create a .env file in the root of your project and add the following configuration:
