@@ -1,28 +1,28 @@
-Redistash - Redis Chat App
+**Redistash - Redis Chat App**
 
 Welcome to Redistash, a chat application built with modern technologies. This app leverages Redis for real-time messaging and offers a delightful user experience with a variety of features.
 
-Home 
+**Home** 
 
   ![Screenshot 2024-07-14 at 23-56-38 RediStash](https://github.com/user-attachments/assets/fb7b5453-a3ba-42bd-bf26-85d772bbeaf4)
 
-Real-time messaging (Dark Mode)
+**Real-time messaging (Dark Mode)**
 
   ![Screenshot 2024-07-15 at 00-25-30 RediStash](https://github.com/user-attachments/assets/c3bbc968-1db3-4a6f-8888-6a38fcef01eb)
 
-Light Mode 
+**Light Mode** 
 
   ![Screenshot 2024-07-15 at 00-25-46 RediStash](https://github.com/user-attachments/assets/8e528380-11e3-4a53-a5ac-39b9a5de50f5)
   
 
-Tech Stack:
+**Tech Stack:**
 
     ⚛️ Next.js 14
     💻 TypeScript
     🎨 Tailwind CSS
     🔐 UPSTASH Redis
 
-Features
+**Features**
 
     💬 Real-Time Messaging
     🔒 Authentication
@@ -37,8 +37,6 @@ Features
     🌐 Deployment
     🚀 And Many More Cool Features
 
-Setup
-Environment Variables
 
 Create a .env file in the root of your project and add the following configuration:
 
@@ -63,19 +61,19 @@ Create a .env file in the root of your project and add the following configurati
           
           NEXT_PUBLIC_PUSHER_APP_KEY=
 
-Install Dependencies
+*Install Dependencies*
 
          npm install
 
-Start the App
+*Start the App*
 
         npm run dev
 
-Contributing
+*Contributing*
 
 Contributions are welcome! If you'd like to contribute to Redistash, please open an issue or submit a pull request.
 
-Acknowledgments
+*Acknowledgments*
 
 Thanks to the creators of the technologies used in this project, and to the open-source community for their support!
 
